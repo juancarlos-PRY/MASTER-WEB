@@ -11,12 +11,14 @@ body {
     margin: 0;
     padding: 0;
     min-height: 100vh;
-    background-color: #000000;
-    color: #9ad79b
+    background-color: #43626b;
+    color: #d8d8d8
 }
 
 div {
     text-align: center;
+    position: relative;
+    top: -70px;
 }
 
 footer,h2 {
@@ -25,19 +27,16 @@ footer,h2 {
     
 }
 
-
-
 aside {
     text-align: right;
 }
 
 .hello { 
-    
-    color: #9ad79b;
-    padding: 80px;
-    position: relative;
-    bottom: 0;
+    color: #000000;
+    padding: 20px;
+    margin-bottom: 20px;;
     width: 100%;
+    font-size:x-large;
 }
 
 
